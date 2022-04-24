@@ -21,7 +21,7 @@ while test $# -gt 0; do
 		echo -e "  -u, --uninstall  uninstall Rust"
 		echo
 		echo -e "${C_LGn}Useful URLs${RES}:"
-		echo -e "https://github.com/Phantom1605/blocks-for-scripts/blob/main/installation%20packages/rust.sh — script URL"
+		echo -e "https://github.com/Phantom1605/blocks-for-scripts/blob/main/installation_packages/rust.sh — script URL"
 		echo -e "https://www.rust-lang.org/tools/install — Rust installation"
 		echo
 		return 0 2>/dev/null; exit 0
