@@ -17,7 +17,7 @@ while test $# -gt 0; do
 		echo -e "${C_LGn}Arguments${RES} - any ports to open separated by spaces"
 		echo
 		echo -e "${C_LGn}Useful URLs${RES}:"
-		echo -e "https://github.com/SecorD0/utils/blob/main/miscellaneous/ports_opening.sh - script URL"
+		echo -e "https://github.com/Phantom1605/blocks-for-scripts/blob/main/secondary/opening_ports.sh - script URL"
 		echo
 		return 0 2>/dev/null; exit 0
 		;;
